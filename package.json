@@ -1,10 +1,10 @@
 {
-  "name": "@nuxtjs/device",
-  "version": "1.2.7",
+  "name": "@nuxtjs/device-cloudfront",
+  "version": "1.0.1",
   "description": "Device detection module for Nuxt.js",
-  "repository": "nuxt-community/device-module",
+  "repository": "thomas4Bitcraft/device-module",
   "license": "MIT",
-  "author": "Shinji Yamada <dotneet@gmail.com>",
+  "author": "bitcraft gmbh <thomas@bitcraft.at>",
   "files": [
     "lib"
   ],
