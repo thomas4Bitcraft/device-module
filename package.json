@@ -1,6 +1,6 @@
 {
-  "name": "@nuxtjs/device-cloudfront",
-  "version": "1.0.3",
+  "name": "@bitcraft/device-cloudfront",
+  "version": "1.0.4",
   "description": "Device detection module for Nuxt.js",
   "repository": "thomas4Bitcraft/device-module",
   "license": "MIT",
